@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Dreams of Light - Belle | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Let us re-visit this crazy exploration path and see what else we can produce
+out of it. This is actually a great journey. Here is the second version.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Dreams-of-Light-Belle.mp3
+  Size: 10373120        Blocks: 20264      IO Block: 4096   regular file
+Access: 2025-11-03 10:20:09.439888400 +0800
+Modify: 2025-11-03 10:20:12.371902184 +0800
+Change: 2025-11-03 10:20:12.371902184 +0800
+ Birth: 2025-05-31 15:05:29.877357701 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-06-21
+On YouTube since : 2025-08-03
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=iCMt7Q7ZcDs)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Dreams of Light - Belle
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-dreams-of-light-belle
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
